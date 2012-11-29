@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-
 #import "my_iphoneAppDelegate.h"
 
 int main(int argc, char *argv[])

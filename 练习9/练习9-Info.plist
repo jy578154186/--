@@ -10,6 +10,8 @@
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIconFiles</key>
 	<array/>
+	<key>UIApplicationExitsOnSuspend</key>
+	<false/>
 	<key>CFBundleIdentifier</key>
 	<string>ibokan.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
